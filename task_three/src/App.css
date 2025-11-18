@@ -1,0 +1,12 @@
+#root {
+  max-width: 375px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {
+  &:focus {
+    outline: #3192f6 solid 2px;
+  }
+}
